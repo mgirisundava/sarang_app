@@ -1,16 +1,3 @@
 # sarang_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is the final result of the online class "Flutter App Developer: Bikin Aplikasi Tinder Cari Jodoh" held by BuildWith Angga. In this class, things are learned such as how to create an authentication feature using local storage, using blocks as state management, and implementing a folder structure feature first for the code structure.
